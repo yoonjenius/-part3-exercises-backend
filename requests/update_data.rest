@@ -1,0 +1,8 @@
+PUT http://localhost:3100/api/persons/6103cea3bd8de023c848b79a
+Content-Type: application/json
+
+{
+    "name": "Helix Fuber",
+    "number": "1010-19891256"
+}
+
